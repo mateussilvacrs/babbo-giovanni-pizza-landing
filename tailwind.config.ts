@@ -52,6 +52,15 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				pizza: {
+					red: '#D62828',
+					tomato: '#A81817',
+					dough: '#F2CC8F',
+					olive: '#606C38',
+					crust: '#BC6C25',
+					mozzarella: '#F4F1DE',
+					basil: '#283618',
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
